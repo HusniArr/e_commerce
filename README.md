@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 *install project react app
 `npx create-react-app ./`
 *install depedency
-`npm install @mui/material @emotion/react @emotion/styled @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js react-router-dom react-hook-form`
+`npm install @mui/material @mui/icons-material @emotion/react @emotion/styled @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js react-router-dom react-hook-form`
